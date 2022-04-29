@@ -1,16 +1,40 @@
 {
-  "posts":[
+  "notes": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "title": "A talk on Money",
+      "details": "Money is a commodity accepted by general consent as a medium of economic exchange. It is the medium in which prices and values are expressed. It circulates from person to person. The subject of money has fascinated people from the time of Aristotle to the present day. The piece of paper labeled 1 dollar, 10 euros, 100 yuan, or 1,000 yen is little different, as paper, from a piece of the same size torn from a newspaper or magazine, yet it will enable its bearer to command some measure of food, drink, clothing, and the remaining goods of life while the other is fit only to light the fire. Whence the difference? The easy answer, and the right one, is that modern money is a social contrivance. People accept money as such because they know that others will. ",
+      "category": "money",
+      "id": 16
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "title": "The Web",
+      "details": "The subject of money has fascinated people from the time of Aristotle to the present day. The piece of paper labeled 1 dollar, 10 euros, 100 yuan, or 1,000 yen is little different, as paper, from a piece of the same size torn from a newspaper or magazine, yet it will enable its bearer to command some measure of food, drink, clothing, and the remaining goods of life while the other is fit only to light the fire. Whence the difference? The easy answer, and the right one, is that modern money is a social contrivance. People accept money as such because they know that others will. ",
+      "category": "web",
+      "id": 17
+    },
+    {
+      "title": "What is a star",
+      "details": "A star is an astronomical object comprising a luminous spheroid of plasma held together by its gravity. The nearest star to Earth is the Sun. Many other stars are visible to the naked eye at night, but their immense distances from Earth make them appear as fixed points of light. The most prominent stars have been categorised into constellations and asterisms, and many of the brightest stars have proper names. Astronomers have assembled star catalogues that identify the known stars and provide standardized stellar designations. The observable universe contains an estimated 1022 to 1024 stars. Still, most are invisible to the naked eye from Earth, including all individual stars outside our galaxy, the Milky Way.",
+      "category": "star",
+      "id": 18
+    },
+    {
+      "title": "Brief talk on time",
+      "details": "If you say there is or that you have no time to lose, it means that you must do quickly whatever it is that you want to do:",
+      "category": "time",
+      "id": 19
+    },
+    {
+      "title": "The root of all evil",
+      "details": "For they say the love of money is the root of all evil",
+      "category": "money",
+      "id": 20
+    },
+    {
+      "title": "The Tower of Babel",
+      "details": "The story of the tower of babel happened a very long time ago",
+      "category": "time",
+      "id": 21
     }
   ]
 }
